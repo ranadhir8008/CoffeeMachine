@@ -1,1 +1,2 @@
 # CoffeeMachine
+Run coffeeMachineTest.java
