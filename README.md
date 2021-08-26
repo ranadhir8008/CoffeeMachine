@@ -1,2 +1,2 @@
 # CoffeeMachine
-Run CoffeeMachine/src/test/java/coffeeMachineTest.java test class
+Run CoffeeMachine/src/test/java/coffeeMachineTest.java
